@@ -157,7 +157,7 @@ export default function Landing() {
         transition={{ duration: 1 }}
         className="py-10 text-sm text-slate-500 dark:text-slate-400"
       >
-        © {new Date().getFullYear()} Prasad’s Developer Dashboard. Built with ❤️ using React + Tailwind.
+        © {new Date().getFullYear()} Deepika's Developer Dashboard. Built with ❤️ using React + Tailwind.
       </motion.footer>
     </div>
   );
