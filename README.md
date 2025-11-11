@@ -31,7 +31,7 @@ A sleek and responsive React dashboard to **track learning goals**, **manage res
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/developer-dashboard.git
+git clone https://github.com/DeepikaAS-CS/Internship-Task-Frontend.git
 
 # Navigate into the project
 cd Internship-Task-Frontend
